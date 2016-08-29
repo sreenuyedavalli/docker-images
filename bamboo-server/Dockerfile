@@ -9,7 +9,7 @@ MAINTAINER H. Wüthrich "hw@5px.ch"
 CMD ["/sbin/my_init"]
 
 # Environment
-ENV BAMBOO_VERSION 5.7.2
+ENV BAMBOO_VERSION 5.13.0.1
 ENV BAMBOO_HOME /home/bamboo
 
 # Expose web and agent ports
